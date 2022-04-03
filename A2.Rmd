@@ -1,0 +1,21 @@
+---
+title: "A2"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+Description
+
+<center>
+<img src="./files1image.png" height="400" width="auto">
+</center> <br>
+
+Secondary Description
+
+<center>
+<img src="./files/2image.png" height="400" width="auto">
+</center> <br>
+
+Final Thoughts
