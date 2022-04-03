@@ -1,0 +1,34 @@
+name: "Site YML"
+output_dir: "."
+navbar:
+  title: "Sameer Rau"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Projects"
+      menu:
+      - text: "1"
+        href: page1.html
+      - text: "2"
+        href: page2.html
+      - text: "3"
+        href: page3.html
+    - text: "Initiatives"
+      menu:
+        - text: "1"
+          href: a1.html
+        - text: "2"
+          href: a2.html
+    - text: "LinkedIn"
+      href: https://www.linkedin.com/in/sameer-r-942172133/
+    - icon: fa-envelope fa-lg
+      href: mailto:<sameer.rau2@gmail.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/SameerRau
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css
+
