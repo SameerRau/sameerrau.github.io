@@ -1,0 +1,13 @@
+---
+title: "3"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+Description
+
+<center>
+<img src="./files/3image.png" height="auto" width="auto">
+</center> <br>
