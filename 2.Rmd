@@ -1,0 +1,46 @@
+---
+title: "2"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+    theme: cosmo
+---
+
+Description
+
+$$
+Embedded
+$$
+
+More description
+
+<center>
+  <img src="./files/image2.jpg" height="500" width="auto">
+</center> <br>
+
+Description
+
+<center>
+  <div class"row">
+    <div class="column">
+    <img src="./files/imageexample.png" alt="Title">
+    <figcaption>Description Title</figcaption>
+    </div>
+    <div class="column">
+    <img src="./files/imageexample2.png" alt="Title2">
+    <figcaption>Another Description Title</figcaption>
+    </div>
+  </div>
+</center>
+
+Description Further
+
+<br>
+<center>
+  <img src="./files/imageexample3.jpg" alt="Title3">
+  <figcaption>Yet Another Description Title</figcaption>
+  <br>
+  <img src="./files/imageexample4.jpg" alt="Title4">
+  <figcaption>Title Description 4</figcaption>
+</center>
