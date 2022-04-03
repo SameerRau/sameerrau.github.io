@@ -1,0 +1,83 @@
+---
+title: "Resume"
+output: 
+  html_document
+---
+A PDF copy can be downloaded [here](./files/sameer_rau_resume.pdf).
+
+## Education
+
+**George Washington University**, Washington, DC: 2013-2017 <br>
+B.S. in Computer Science <br>
+Minors in Music & Statistics <br> 
+
+## Work Experience
+**Customer Value Partners**, Fairfax, VA <br>
+*Technologist - Health Care Quality Analytics and Reporting – Centers for Medicare & Medicaid Services (CMS) *: 2018-Present <br>
+
+* Architected several end-to-end data pipelines built on AWS EMR and managed by Apache Airflow to ingest large claims data sources (terabytes in size), optimize customer performance, and improve healthcare quality outcomes.
+* Spearheaded creation of company-wide internal data library using the CKAN API.
+* Applied robotic process automation (RPA) to automate the generation of health quality metrics
+from a large claims dataset.
+* Led machine learning efforts to predict hospital readmissions among discharged patients.
+
+**AKALAKA**:, Durham, NC <br>
+*Pro Bono Technical Advisor: 2021-Present*
+
+* Automated and designed Medicaid waiver registration process for disability caregivers accessing a custom virtual training and support program offered by AKALAKA, an early-stage startup.
+
+**George Washington University**, Washington, DC <br>
+*Research Assistant, Department of Computer Science*: 2017
+
+* Utilized Vicon motion capture technology to identify biomechanical similarities between duetting dance performers; conducted correlational analysis in R.
+
+**ZoomRx**, Cambridge, MA/San Francisco, CA <br>
+*Analytics Intern Associate*: 2016
+
+* Conducted statistical analyses of survey data for a healthcare research and analytics firm.
+* Created in-depth statistical analysis tutorials for R packages (caret, ggplot, dplyr, tidyverse).
+
+**The World Bank Group**, Washington, DC <br>
+*Demographics Intern*: 2014-2015
+
+* Leveraged Python and SQL to create a database profiling centenarians and supercentenarians and presented findings as part of The World Bank’s World Population Project.
+
+## Honors & Awards
+**American Statistical Association DataFest** <br>
+*Best Insight*: 2016
+
+* Received “Best Insight” award in annual competition co-sponsored by Google and Pew. Utilized text mining techniques in R to optimize click-to-revenue conversion. Developed optimal advertising recommendations for machine-generated ads based on >1,000,000 rows of data.
+
+**CVP High Performer Award**, Washington, DC <br>
+*3x Winner*: 2019, 2020, 2021
+
+* Awarded to an individual deemed to have gone above and beyond the call of duty to support government agencies with innovative technical solutions.
+
+## Skills
+**Completed Coursework**: <br>
+*Big Data and Analytics
+*Regression Analysis
+*Database Systems
+*Algorithms & Data Structures
+*Computer Graphics
+*Software Engineering
+*Artificial Intelligence
+
+
+**Languages & Algorithms**:
+**AWS (S3, EMR, EC2)**
+**Machine learning algorithms (random forest, k-nearest neighbors, regression, LSTM modeling)**
+**Python (Pandas, NumPy, Matplotlib)**
+**PySpark**
+**R**
+**Java**
+**SQL**
+**SAS**
+**Cloudera Hadoop**
+**C/C++**
+**GitHub**
+**MAYA**
+<br>
+
+**Certifications**: <br>
+*SAS Certified Base Programmer for SAS 9
