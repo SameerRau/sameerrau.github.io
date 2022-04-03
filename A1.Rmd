@@ -1,0 +1,17 @@
+---
+title: "A1"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+<center>
+<img src="./files/5image.jpg" height="400" width="auto">
+</center> <br>
+
+Full Description
+
+<center>
+<iframe src="Embed Video URL" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center> <br>
